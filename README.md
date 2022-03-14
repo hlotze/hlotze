@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hlotze
 - 👀 I’m interested in Python programming Math, Chess and starting with Latex
-- 🌱 I’m currently learning Chess, Python-chess latexmk
+- 🌱 I’m currently learning Chess, Python-chess and latexmk
 - 📫 hlotze@yahoo.com
 
 <!---
